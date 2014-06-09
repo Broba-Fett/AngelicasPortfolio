@@ -1,0 +1,18 @@
+body {
+background-color: #fff2ff
+}
+
+p {
+	font-family: "Lucida Calligraphy";
+	font-size: 40px;
+	color: #5f5252;
+	position: absolute;
+	top:20px;
+	right:1150px;
+}
+
+.image_3D {
+	position: absolute;
+	top:50px;
+	right:50px;
+}

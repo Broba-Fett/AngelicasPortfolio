@@ -1,0 +1,84 @@
+body {
+    background-image: url("blossomsback.png");
+    background-color: #fff2ff;
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    background-position: right top;
+}
+a {
+color: #5f5252;
+}
+
+p.svenska {
+	font-family: "Lucida Calligraphy";
+	font-size: 40px;
+	color: #5f5252;
+	position: absolute;
+	top:20px;
+	right:1115px;
+}
+div {
+		font-family: "Times New Roman";
+		font-size: 25px;
+		color: #5f5252;
+		position: absolute;
+		top:120px;
+		right:1000px;
+}
+
+h1 {
+	font-family: "Times New Roman";
+	font-size: 25pt;
+	color: #5f5252;
+	position: absolute;
+	top: 620px;
+	right: 470px;
+}
+
+h2 {
+	font-family: "Times New Roman";
+	font-size: 25pt;
+	color: #5f5252;
+	position: absolute;
+	top: 2400px;
+	right: 550px;
+}
+
+h3 {
+	font-family: "Times New Roman";
+	font-size: 25pt;
+	color: #5f5252;
+	position: absolute;
+	top: 2900px;
+	right: 620px;
+}
+
+h4 {
+	font-family: "Times New Roman";
+	font-size: 25pt;
+	color: #5f5252;
+	position: absolute;
+	top: 3400px;
+	right: 460px;
+}
+
+h5 {
+	font-family: "Times New Roman";
+	font-size: 25pt;
+	color: #5f5252;
+	position: absolute;
+	top: 3900px;
+	right: 580px;
+}
+
+.image_shutterisland {
+	position: absolute;
+	top:700px;
+	right:350px;
+}
+
+.image_shutterisland2 {
+	position: absolute;
+	top:1410px;
+	right:350px;
+}

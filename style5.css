@@ -1,0 +1,29 @@
+body {
+    background-image: url("blossomsback.png");
+    background-color: #fff2ff;
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    background-position: right top;
+}
+
+p.uppsats {
+	font-family: "Lucida Calligraphy";
+	font-size: 40px;
+	color: #5f5252;
+	position: absolute;
+	top:20px;
+	right:1100px;
+}
+
+div {
+		font-family: "Times New Roman";
+		font-size: 25px;
+		color: #5f5252;
+		position: absolute;
+		top:120px;
+		right:1130px;
+}
+
+a {
+color: #5f5252;
+}

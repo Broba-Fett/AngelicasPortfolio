@@ -1,0 +1,45 @@
+body {
+    background-image: url("blossomsback.png");
+    background-color: #fff2ff;
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    background-position: right top;
+}
+
+p.contact {
+	font-family: "Lucida Calligraphy";
+	font-size: 40px;
+	color: #5f5252;
+	position: absolute;
+	top:20px;
+	right:1030px;
+}
+p.email {
+	font-family: "Times New Roman";
+	font-size: 18px;
+	color: #5f5252;
+	position: absolute;
+	top:100px;
+	right: 1100px;
+}
+.image_fb {
+	height:70px;
+	width:70px;
+	position: absolute;
+	top: 220px;
+	right:1180px;
+}
+.image_twitter {
+	height:70px;
+	width:70px;
+	position: absolute;
+	top: 300px;
+	right:1180px;
+}
+.image_tumblr {
+	height:70px;
+	width:70px;
+	position: absolute;
+	top: 380px;
+	right:1180px;
+}
